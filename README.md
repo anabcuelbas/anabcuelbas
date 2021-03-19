@@ -1,5 +1,9 @@
 ### Hi there, I'm Ana!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
+<img align='right' src="https://github.com/anabcuelbas/anabcuelbas/blob/main/perfil.gif" width="230">
+
+
+
 😄 *Pronouns: she/her*
 
 :mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>*
