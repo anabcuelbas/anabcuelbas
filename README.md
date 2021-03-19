@@ -1,8 +1,6 @@
 ### Hi there, I'm Ana!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
-<img align='right' src="https://github.com/anabcuelbas/anabcuelbas/blob/main/perfil.gif" width="230">
-
-
+<img align='right' src="https://github.com/anabcuelbas/anabcuelbas/blob/main/perfil.png" width="230">
 
 😄 *Pronouns: she/her*
 
