@@ -1,4 +1,4 @@
-### Hi there, I'm Ana!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
+## Hi there, I'm Ana!! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50">
 
 <img align='right' src="https://github.com/anabcuelbas/anabcuelbas/blob/main/perfil.png" width="230">
 
@@ -22,16 +22,16 @@
 
 ### Technologies that I usually work with
 
-![HTML5](https://img.shields.io/badge/-HTML5-44475a?style=for-the-badge&logo=html5&logoColor=c38fe6)
-![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=for-the-badge&logo=css3&logoColor=c38fe6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?style=for-the-badge&logo=javascript&logoColor=c38fe6)
-![Node](https://img.shields.io/badge/-Node.js-44475a?style=for-the-badge&logo=node.js&logoColor=c38fe6)
-![React](https://img.shields.io/badge/-React-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
 ![React](https://img.shields.io/badge/-React_Native-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
+![React](https://img.shields.io/badge/-React-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
+![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=for-the-badge&logo=css3&logoColor=c38fe6)
+![Node](https://img.shields.io/badge/-Node.js-44475a?style=for-the-badge&logo=node.js&logoColor=c38fe6)
 ![Java](https://img.shields.io/badge/-Java-44475a?style=for-the-badge&logo=java&logoColor=c38fe6)
 
 ### Some other technologies that I've studied
 
+![HTML5](https://img.shields.io/badge/-HTML5-44475a?style=flat-square&logo=html5&logoColor=7dd7c6)
 ![SQLite](https://img.shields.io/badge/-SQLite-44475a?style=flat-square&logo=SQLite&logoColor=7dd7c6)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-44475a?style=flat-square&logo=postgreSQL&logoColor=7dd7c6)
 ![C](https://img.shields.io/badge/-C-44475a?style=flat-square&logo=c%2B%2B&logoColor=7dd7c6)
