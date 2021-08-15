@@ -6,7 +6,7 @@
 
 :mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>*
 
-:computer: *Software Developer at <a href="https://www.sintesejr.com.br/">Síntese jr.</a>*
+:computer: *Software Engineer Intern at <a href="https://www.quintoandar.com.br/">Quinto Andar</a>*
 
 #### You can find me at:
 
