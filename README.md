@@ -18,7 +18,7 @@
 ![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anabcuelbas&theme=nightowl&layout=compact&langs_count=6)
 -->
 
-[![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&count_private=true)](https://github.com/anabcuelbas/github-readme-stats)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true)
 
 ### Technologies that I usually work with
 
