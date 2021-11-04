@@ -20,6 +20,10 @@
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true)
 
+<!--
+![Ana's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anabcuelbas&theme=nightowl&show_icons=true)
+-->
+
 ### Technologies that I usually work with
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?style=for-the-badge&logo=javascript&logoColor=c38fe6)
