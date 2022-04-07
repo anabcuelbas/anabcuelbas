@@ -6,7 +6,7 @@
 
 :mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>*
 
-:computer: *Software Engineer Intern at <a href="https://www.quintoandar.com.br/">QuintoAndar</a>*
+:computer: *Software Engineer at <a href="https://www.quintoandar.com.br/">QuintoAndar</a>*
 
 #### You can find me at:
 
@@ -18,7 +18,7 @@
 ![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anabcuelbas&theme=nightowl&layout=compact&langs_count=6)
 -->
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
 
 <!--
 ![Ana's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anabcuelbas&theme=nightowl&show_icons=true)
@@ -26,12 +26,12 @@
 
 ### Technologies that I usually work with
 
+![Java](https://img.shields.io/badge/-Java-44475a?style=for-the-badge&logo=java&logoColor=c38fe6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?style=for-the-badge&logo=javascript&logoColor=c38fe6)
 ![React](https://img.shields.io/badge/-React_Native-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
 ![React](https://img.shields.io/badge/-React-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
 ![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=for-the-badge&logo=css3&logoColor=c38fe6)
 ![Node](https://img.shields.io/badge/-Node.js-44475a?style=for-the-badge&logo=node.js&logoColor=c38fe6)
-![Java](https://img.shields.io/badge/-Java-44475a?style=for-the-badge&logo=java&logoColor=c38fe6)
 
 ### Some other technologies that I've studied
 
