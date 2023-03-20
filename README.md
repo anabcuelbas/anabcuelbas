@@ -4,7 +4,7 @@
 
 😄 *Pronouns: she/her*
 
-:mortar_board: *Information Systems student at <a href="https://www5.usp.br/">University of São Paulo</a>*
+:mortar_board: *Bachelor of Information Systems from <a href="https://www5.usp.br/">University of São Paulo</a>*
 
 :computer: *Software Engineer at <a href="https://www.quintoandar.com.br/">QuintoAndar</a>*
 
