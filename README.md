@@ -18,7 +18,7 @@
 ![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anabcuelbas&theme=nightowl&layout=compact&langs_count=6)
 -->
 
-![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&count_private=true&include_all_commits=true&hide=issues,contribs)
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anabcuelbas&theme=nightowl&show_icons=true&&include_all_commits=true)
 
 <!--
 ![Ana's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anabcuelbas&theme=nightowl&show_icons=true)
