@@ -26,20 +26,23 @@
 ### Technologies that I usually work with
 
 ![Java](https://img.shields.io/badge/-Java-44475a?style=for-the-badge&logo=java&logoColor=c38fe6)
+![Spring](https://img.shields.io/badge/-Spring-44475a?style=for-the-badge&logo=spring&logoColor=c38fe6)
+![Hibernate](https://img.shields.io/badge/-Hibernate-44475a?style=for-the-badge&logo=hibernate&logoColor=c38fe6)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-44475a?style=for-the-badge&logo=postgreSQL&logoColor=c38fe6)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-44475a?style=for-the-badge&logo=amazon-aws&logoColor=c38fe6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-44475a?style=for-the-badge&logo=javascript&logoColor=c38fe6)
-![React](https://img.shields.io/badge/-React_Native-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
 ![React](https://img.shields.io/badge/-React-44475a?style=for-the-badge&logo=react&logoColor=c38fe6)
-![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=for-the-badge&logo=css3&logoColor=c38fe6)
-![Node](https://img.shields.io/badge/-Node.js-44475a?style=for-the-badge&logo=node.js&logoColor=c38fe6)
 
 ### Some other technologies that I've studied
 
-![HTML5](https://img.shields.io/badge/-HTML5-44475a?style=flat-square&logo=html5&logoColor=7dd7c6)
+![ReactNative](https://img.shields.io/badge/-React_Native-44475a?style=flat-square&logo=react&logoColor=7dd7c6)
 ![SQLite](https://img.shields.io/badge/-SQLite-44475a?style=flat-square&logo=SQLite&logoColor=7dd7c6)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-44475a?style=flat-square&logo=postgreSQL&logoColor=7dd7c6)
 ![C](https://img.shields.io/badge/-C-44475a?style=flat-square&logo=c%2B%2B&logoColor=7dd7c6)
 ![CPP](https://img.shields.io/badge/-C++-44475a?style=flat-square&logo=c%2B%2B&logoColor=7dd7c6)
 ![Unity](https://img.shields.io/badge/-Unity-44475a?style=flat-square&logo=unity&logoColor=7dd7c6)
+![HTML5](https://img.shields.io/badge/-HTML5-44475a?style=flat-square&logo=html5&logoColor=7dd7c6)
+![CSS3](https://img.shields.io/badge/-CSS3-44475a?style=flat-square&logo=css3&logoColor=7dd7c6)
+![Node](https://img.shields.io/badge/-Node.js-44475a?style=flat-square&logo=node.js&logoColor=7dd7c6)
 
 <!--
 Colors
