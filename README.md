@@ -9,10 +9,9 @@
 :computer: *Software Engineer at <a href="https://www.quintoandar.com.br/">QuintoAndar</a>*
 
 #### You can find me at:
-
-[![Linkedin Badge](https://img.shields.io/badge/-Ana%20Cuelbas-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/ana-beatriz-machado-cuelbas-127682191/)](https://www.linkedin.com/in/ana-beatriz-machado-cuelbas-127682191/)
-[![Instagram Badge](https://img.shields.io/badge/-anabcuelbas-blue?style=social&logo=Instagram&link=https://www.instagram.com/anabcuelbas/)](https://www.instagram.com/anabcuelbas/)
-[![Gmail Badge](https://img.shields.io/badge/-anabcuelbas@alumni.usp.br-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:anabcuelbas@alumni.usp.br)](mailto:anabcuelbas@alumni.usp.br)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anabcuelbas/)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anabcuelbas/)
+[![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red)](mailto:anabcuelbas@alumni.usp.br)
 
 <!--
 ![Ana's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anabcuelbas&theme=nightowl&layout=compact&langs_count=6)
