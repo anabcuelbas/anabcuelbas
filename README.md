@@ -25,6 +25,8 @@
 ![Ana's GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=anabcuelbas&theme=nightowl&show_icons=true)
 -->
 
+<br></br>
+
 ![Ana's GitHub streak](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anabcuelbas&theme=nord_dark)
 
 ### Technologies that I usually work with
